@@ -1,5 +1,18 @@
+body {
+  background-color: #3e3b40;
+  color: #EEE;
+}
+
+h1 {
+  text-align: center;
+}
+
 .step {
-  border: 1px;
-  padding: 20px;
-  margin: 40px;
+  font-family: "Arial", sans-serif;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #222;
+  padding: 1em;
+  padding-top, padding-bottom: .5em;
+  margin: 2em;
 }
